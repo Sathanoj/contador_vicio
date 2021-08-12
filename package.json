@@ -1,0 +1,11 @@
+{
+  "name": "contador_vicio",
+  "version": "1.0.0",
+  "description": "contador de tempos de execução de aplicativos",
+  "main": "index.js",
+  "author": "Joni e Vitor",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
